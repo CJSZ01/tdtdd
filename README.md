@@ -1,16 +1,9 @@
-# tdtdd
+# TDTDD - ToDoTestDrivenDeveloped
 
-A new Flutter project.
+Simples projeto em Flutter de uma aplicação de TODOs com um CRUD, realizado seguindo os princípios de Test-Driven-Development (TDD), orientado no curso de Testes Unitários da Flutterando, ministrado por Jacob Moura.
 
-## Getting Started
+Simple TODO application developed in Flutter following the principles of Test-Driven-Development (TDD), as featured on Flutterando's Unit Testing course, presented by Jacob Moura.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Curso/Course](https://masterclass.flutterando.com.br/public/products/94222fd5-92e5-4890-8e87-455ef4346858)
